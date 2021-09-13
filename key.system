@@ -1,0 +1,8 @@
+login_3.MouseButton1Down:connect(function()
+if password.Text == "1" or "QHlAsyQnmY" then 
+    login.Visible = false
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/angxlzz/releases/main/BlazedV3", true))()
+end
+end)
+
+--KEY "1" IS DEV KEY!
